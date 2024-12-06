@@ -2,10 +2,6 @@
 <h3 align="center">Software engineer, doing JS stack</h3>
 <h4 align="center">🚨🚨Open to freelance🚨🚨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valenciahq&label=Profile%20views&color=0e75b6&style=flat" alt="valenciahq" /> </p>
-
-<p align="left"> <a href="https://twitter.com/_valenciahq" target="blank"><img src="https://img.shields.io/twitter/follow/_valenciahq?logo=twitter&style=for-the-badge" alt="_valenciahq" /></a> </p>
-
 - 🔭 I’m currently working on [Bondly](https://www.bondly.com/)
 
 - 👨‍💻 All of my projects are available at [www.valenciahq.com](www.valenciahq.com)
